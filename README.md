@@ -2,8 +2,7 @@
 <h3 align="center">A passionate full stack developer and also a competitive programming enthusiast from India</h3>
 
 <p align="left"> <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chesterking4024" alt="chesterking4024" /></a> </p>
+<img src ="https://i.pinimg.com/originals/67/20/aa/6720aac3d27437810aa0b1cccf5855da.gif" alt="Solo Leveling">
 
 - 🔭 I’m currently working on **Myself**
 
