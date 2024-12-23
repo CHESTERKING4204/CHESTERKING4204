@@ -1,16 +1,14 @@
 <h1 align="center">HOLA</h1>
-<h3 align="center">A passionate full stack developer and also a competitive programming enthusiast from India</h3>
-
 
 - 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently dealing with  **LIFE**
 
 - 👯 I’m looking to collaborate with **Happiness**
 
 - 🤝 I’m looking for help with **my intrusive thoughts ☠☠**
 
-- 💬 Ask me about **MERN , Competitive Programming and any of ur thoughts😁**
+- 💬 Ask me about **Anything ,including ur (Intrusive😈😈)thoughts too😁**
 
 
 <h3 align="left">Languages and Tools:</h3>
