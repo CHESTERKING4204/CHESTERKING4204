@@ -1,7 +1,7 @@
 <h1 align="center">HOLA</h1>
 
-<div align="center" style="display: flex; gap: 10px; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/8174f929-2065-415c-9886-f16effde2ced" alt="GIF 1" width="200"/>
+<div align="center" style="display: flex; gap: 20px; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/8174f929-2065-415c-9886-f16effde2ced" alt="GIF 1" width="300" height="200"/>
   <img src="https://github.com/user-attachments/assets/aa852746-7619-4b13-a88f-06876ef828b9" alt="GIF 2" width="200"/>
 </div>
 
