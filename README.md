@@ -4,6 +4,10 @@
   <img src="https://github.com/user-attachments/assets/8174f929-2065-415c-9886-f16effde2ced" alt="GIF 1" width="400" height="400"/>
   <img src="https://github.com/user-attachments/assets/aa852746-7619-4b13-a88f-06876ef828b9" alt="GIF 2" width="400"/>
 </div>
+<img src="https://github.com/user-attachments/assets/aa852746-7619-4b13-a88f-06876ef828b9](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66" alt="GIF 2"/>
+
+
+
 
 - 🔭 I’m currently working on **Myself**
 
