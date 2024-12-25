@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **my intrusive thoughts ☠☠**
 
-- 💬 Ask me about **Anything ,including ur (Intrusive😈😈)thoughts too😁**
+- 💬 Ask me about **Anything ,including ur (DARKEST😈😈)thoughts too😁**
 
 
 <h3 align="left">Languages and Tools:</h3>
