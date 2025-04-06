@@ -11,13 +11,13 @@
 
 
 
-- 🔭 I’m currently working on **Myself**
+- 🔭 Currently working on **Myself**
 
-- 🌱 I’m currently dealing with  **LIFE**
+- 🌱 Dealing with  **LIFE**
 
-- 👯 I’m looking to collaborate with **Happiness**
+- 👯 Looking to collaborate with **Happiness**
 
-- 🤝 I’m looking for help with **my intrusive thoughts ☠☠**
+- 🤝 Controlling **my intrusive thoughts ☠☠**
 
 - 💬 Ask me about **Anything ,including ur (DARKEST😈😈)thoughts too😁**
 
