@@ -7,6 +7,8 @@
   <img src="https://github.com/user-attachments/assets/aa852746-7619-4b13-a88f-06876ef828b9" alt="GIF 2" width="400"/>
 </div>
 <img src="https://github.com/user-attachments/assets/aa852746-7619-4b13-a88f-06876ef828b9](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66" alt="GIF 2"/>
+<img width="1090" height="302" alt="image" src="https://github.com/user-attachments/assets/32b8547f-4c61-4c1b-9988-4e5451230d05" />
+
 
 
 
