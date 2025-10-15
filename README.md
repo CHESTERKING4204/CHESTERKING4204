@@ -1,4 +1,4 @@
-<h1 align="center">HOLA</h1>
+<h1 align="center">HOLA AMIGOS</h1>
 <img width="1090" height="302" alt="image" src="https://github.com/user-attachments/assets/32b8547f-4c61-4c1b-9988-4e5451230d05" />
 
 ![6507c0303f9a607985fda907_8  Github Alternatives](https://github.com/user-attachments/assets/a8d357b2-718f-46d3-acf2-670faeab8f42)
